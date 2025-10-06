@@ -3,10 +3,10 @@ Programmed this classic arcade game as my final project in my introductory progr
 
 ## Features Implemented
 
-* ** Classic Gameplay: ** Standard snake mechanics, which includes constant movement (controlled by WASD), growing snake, score tracking, and collision detection.
-* ** High Score Tracking: ** Implemented a high score mechanic which tracks the highest score in the current session
-* ** Bonus Fruits: ** Added an orange bonus fruit, different from the standard apple, which appears randomly after an apple is eaten and grants bonus points.
-* ** Game States: ** Includes cutom title screen, game over screen, and the ability to restart by pressing 'R'
+* **Classic Gameplay:** Standard snake mechanics, which includes constant movement (controlled by WASD), growing snake, score tracking, and collision detection.
+* **High Score Tracking:** Implemented a high score mechanic which tracks the highest score in the current session
+* **Bonus Fruits:** Added an orange bonus fruit, different from the standard apple, which appears randomly after an apple is eaten and grants bonus points.
+* **Game States:** Includes cutom title screen, game over screen, and the ability to restart by pressing 'R'
 
 ## Class Structure: 
 * SnakeGame.java: This is the main entry point of the application. It manages the game loop, initializes the Board, and handles game states
